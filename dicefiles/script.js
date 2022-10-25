@@ -1,6 +1,6 @@
 let player1Score;
 let player2Score;
-let i = 0 ;
+
 
 
 document.querySelector("button").onclick = function(){roll()};
